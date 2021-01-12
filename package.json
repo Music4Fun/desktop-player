@@ -1,0 +1,27 @@
+{
+  "name": "desktop-player",
+  "version": "1.0.0",
+  "description": "POC: Player desktop",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Music4Fun/desktop-player.git"
+  },
+  "keywords": [
+    "karaoke"
+  ],
+  "author": "joaop221",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Music4Fun/desktop-player/issues"
+  },
+  "homepage": "https://github.com/Music4Fun/desktop-player#readme",
+  "devDependencies": {
+    "electron": "^11.1.1",
+    "jest": "^26.6.3"
+  }
+}
